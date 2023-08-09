@@ -45,4 +45,12 @@ Limpiar:
 a. Lavar la taza, la cuchara y cualquier otro utensilio utilizado.
 b. Vaciar la tetera y enjuagarla si es necesario.
 
+Ejercicio 7.
 
+Explicacion de 3 varibles primitivas 
+integer:
+  Los numeros enteros son los que no contienen decimal
+boolean:
+  Representan valores de verdadero o falso
+string:
+  Secuencia de caracteres que pueden tener letras, numeros y simbolos.
